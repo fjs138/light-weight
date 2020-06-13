@@ -3,7 +3,9 @@
 
 ![Alt Text](./light-weight.gif)
 
-
+## The Story
+I had built a "hackintosh" and noticed my sound would hiccup when the cpu was largely idle.
+I set this to run upon system startup, and it nullified the sound issue, while not putting an appreciable load on the computer to do so.
 
 ## License
  
