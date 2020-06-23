@@ -4,7 +4,8 @@
 ![Alt Text](./light-weight.gif)
 
 ## The Problem
-I had built a "hackintosh" and noticed my sound would hiccup when the cpu was largely idle.
+I had built a "hackintosh" and noticed my audio system's output would stutter or degrade. This was likely related to the kernel extension I was using for system audio. Problem frequency and degree of degredation were inversely related to the load on the CPU, that is to say, when it was idle, it was at it's worst.
+
 ## The Solution
 
 I set this to run upon system startup, and it nullified the sound issue, while not putting an appreciable load on the computer to do so.
